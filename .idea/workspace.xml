@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="639da245-821d-4cb7-a7c6-76625250ccdb" name="Default" comment="eureka server">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/eureka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EurekaApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/springcloudframe/eureka/EurekaApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnableEurekaServer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.1.RELEASE/spring-cloud-netflix-eureka-server-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Documented.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/JDK8/src.zip!/java/lang/annotation/Documented.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaServerMarkerConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.1.RELEASE/spring-cloud-netflix-eureka-server-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerMarkerConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaClientConfigBean.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.1.RELEASE/spring-cloud-netflix-eureka-client-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="99">
+              <caret line="79" column="73" lean-forward="false" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="73" />
+              <folding>
+                <marker date="1539997872909" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1539997872909" expanded="false" signature="164:758" ph="..." />
+                <marker date="1539997872909" expanded="true" signature="1113:1155" ph="@{...}" />
+                <marker date="1539997872909" expanded="true" signature="3347:4050" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="4090:4101" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4125:4131" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4188:4199" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4240:4246" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4293:4304" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4335:4341" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4390:4401" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4434:4440" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4481:4492" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4517:4523" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4564:4575" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4600:4606" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4655:4666" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4705:4711" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4765:4776" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4820:4826" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="4877:4888" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="4927:4933" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="4991:5173" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="5241:6212" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="6259:6270" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="6295:6301" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="6351:6362" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="6396:6402" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="6444:6455" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="6481:6487" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="6524:6535" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="6562:6568" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="6623:6634" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="6673:6679" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="6728:6898" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="6953:6964" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="6991:6997" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="7048:7059" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7088:7094" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="7166:7177" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7218:7224" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="7256:7267" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7287:7293" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="7338:7349" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7372:7378" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="7427:7438" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7460:7466" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="7529:7540" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7567:7573" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="7623:7634" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7675:7681" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="7765:7846" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="7906:7917" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="7968:7974" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="8078:8179" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="8247:8321" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="8439:8554" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="8611:8622" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="8670:8676" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="8774:8869" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="8903:8914" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="8936:8942" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="8990:9001" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9028:9034" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="9068:9079" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9101:9107" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="9155:9166" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9193:9199" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="9237:9248" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9274:9280" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="9336:9347" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9382:9388" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="9426:9437" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9463:9469" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="9525:9536" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9571:9577" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="9629:9640" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9683:9689" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="9777:9862" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="9917:9928" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="9974:9980" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="10074:10165" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="10208:10219" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="10250:10256" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="10322:10333" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="10378:10384" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="10434:10445" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="10486:10492" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="10576:10657" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="10714:10725" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="10773:10779" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="10877:10972" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="11019:11030" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11065:11071" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="11146:11215" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="11256:11267" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11296:11302" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="11364:11375" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11416:11422" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="11466:11477" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11509:11515" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="11583:11594" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11641:11647" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="11678:11689" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11708:11714" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="11756:11767" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11788:11794" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="11850:11861" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="11908:11914" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="12010:12103" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="12159:12170" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="12214:12220" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="12313:12400" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="12453:12464" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="12508:12514" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="12604:12691" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="12753:12764" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="12817:12823" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="12931:13036" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="13092:13103" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="13150:13156" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="13252:13345" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="13411:13483" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="13597:13708" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="13756:13767" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="13790:13796" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="13859:13870" ph=" { " />
+                <marker date="1539997872909" expanded="true" signature="13899:13905" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="13941:13952" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="13976:13982" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="14035:14046" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="14077:14083" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="14136:14147" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="14188:14194" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="14282:14363" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="14406:14417" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="14448:14454" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="14521:14532" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="14577:14583" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="14628:14639" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="14672:14678" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="14750:14815" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="14852:14863" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="14888:14894" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="14949:14960" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="14993:14999" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="15036:15047" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="15072:15078" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="15133:15144" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="15177:15183" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="15234:15245" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="15284:15290" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="15373:15450" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="15505:15516" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="15546:15552" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="15630:15689" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="15735:15746" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="15780:15786" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="15860:15927" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="15965:15976" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16002:16008" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="16065:16076" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16111:16117" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="16159:16170" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16200:16206" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="16270:16281" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16324:16330" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="16376:16387" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16421:16427" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="16500:16567" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="16606:16617" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16644:16650" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="16709:16720" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16757:16763" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="16814:16825" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="16864:16870" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="16954:17031" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="17067:17078" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17102:17108" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="17160:17171" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17202:17208" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="17244:17255" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17279:17285" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="17337:17348" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17379:17385" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="17426:17437" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17466:17472" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="17534:17545" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17586:17592" ph=" }" />
+                <marker date="1539997872909" expanded="false" signature="17643:17654" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17693:17699" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="17783:17860" ph="{...}" />
+                <marker date="1539997872909" expanded="false" signature="17916:17927" ph=" { " />
+                <marker date="1539997872909" expanded="false" signature="17971:17977" ph=" }" />
+                <marker date="1539997872909" expanded="true" signature="18071:18158" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="18196:21573" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="21601:22976" ph="{...}" />
+                <marker date="1539997872909" expanded="true" signature="23007:26076" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-378">
+              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>serviceUrl</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eureka/src/main/java/com/springcloudframe/eureka/EurekaApplication.java" />
+        <option value="$PROJECT_DIR$/eureka/src/main/resources/application-8761.yml" />
+        <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="497" />
+    <option name="width" value="1433" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring cloud/springcloud_sell" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/学习/code/spring cloud/eureka/pom.xml" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\code\spring cloud\eureka\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="EurekaApplication 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudframe.eureka.EurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8762" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springcloudframe.eureka.EurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8761" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="eureka" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.EurekaApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.EurekaApplication 2" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="639da245-821d-4cb7-a7c6-76625250ccdb" name="Default" comment="" />
+      <created>1539996683293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539996683293</updated>
+      <workItem from="1539996685472" duration="10238000" />
+    </task>
+    <task id="LOCAL-00001" summary="eureka server">
+      <created>1540004828837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540004828837</updated>
+    </task>
+    <task id="LOCAL-00002" summary="eureka server">
+      <created>1540004999603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540004999603</updated>
+    </task>
+    <task id="LOCAL-00003" summary="eureka server">
+      <created>1540005316636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540005316636</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10238000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.49812934" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.50400853" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.49812934" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.49599144" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18278995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eureka server" />
+    <option name="LAST_COMMIT_MESSAGE" value="eureka server" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-cloud/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.1.RELEASE/spring-cloud-netflix-eureka-server-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <marker date="1539997856075" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1539997856075" expanded="false" signature="171:418" ph="..." />
+            <marker date="1539997856075" expanded="true" signature="420:544" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/JDK8/src.zip!/java/lang/annotation/Documented.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.1.RELEASE/spring-cloud-netflix-eureka-client-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="79" column="73" lean-forward="false" selection-start-line="79" selection-start-column="44" selection-end-line="79" selection-end-column="73" />
+          <folding>
+            <marker date="1539997872909" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1539997872909" expanded="false" signature="164:758" ph="..." />
+            <marker date="1539997872909" expanded="true" signature="1113:1155" ph="@{...}" />
+            <marker date="1539997872909" expanded="true" signature="3347:4050" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="4090:4101" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4125:4131" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4188:4199" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4240:4246" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4293:4304" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4335:4341" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4390:4401" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4434:4440" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4481:4492" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4517:4523" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4564:4575" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4600:4606" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4655:4666" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4705:4711" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4765:4776" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4820:4826" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="4877:4888" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="4927:4933" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="4991:5173" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="5241:6212" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="6259:6270" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="6295:6301" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="6351:6362" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="6396:6402" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="6444:6455" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="6481:6487" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="6524:6535" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="6562:6568" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="6623:6634" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="6673:6679" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="6728:6898" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="6953:6964" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="6991:6997" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="7048:7059" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7088:7094" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="7166:7177" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7218:7224" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="7256:7267" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7287:7293" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="7338:7349" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7372:7378" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="7427:7438" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7460:7466" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="7529:7540" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7567:7573" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="7623:7634" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7675:7681" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="7765:7846" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="7906:7917" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="7968:7974" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="8078:8179" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="8247:8321" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="8439:8554" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="8611:8622" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="8670:8676" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="8774:8869" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="8903:8914" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="8936:8942" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="8990:9001" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9028:9034" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="9068:9079" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9101:9107" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="9155:9166" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9193:9199" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="9237:9248" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9274:9280" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="9336:9347" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9382:9388" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="9426:9437" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9463:9469" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="9525:9536" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9571:9577" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="9629:9640" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9683:9689" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="9777:9862" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="9917:9928" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="9974:9980" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="10074:10165" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="10208:10219" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="10250:10256" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="10322:10333" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="10378:10384" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="10434:10445" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="10486:10492" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="10576:10657" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="10714:10725" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="10773:10779" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="10877:10972" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="11019:11030" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11065:11071" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="11146:11215" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="11256:11267" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11296:11302" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="11364:11375" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11416:11422" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="11466:11477" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11509:11515" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="11583:11594" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11641:11647" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="11678:11689" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11708:11714" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="11756:11767" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11788:11794" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="11850:11861" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="11908:11914" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="12010:12103" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="12159:12170" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="12214:12220" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="12313:12400" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="12453:12464" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="12508:12514" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="12604:12691" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="12753:12764" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="12817:12823" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="12931:13036" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="13092:13103" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="13150:13156" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="13252:13345" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="13411:13483" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="13597:13708" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="13756:13767" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="13790:13796" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="13859:13870" ph=" { " />
+            <marker date="1539997872909" expanded="true" signature="13899:13905" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="13941:13952" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="13976:13982" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="14035:14046" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="14077:14083" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="14136:14147" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="14188:14194" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="14282:14363" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="14406:14417" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="14448:14454" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="14521:14532" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="14577:14583" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="14628:14639" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="14672:14678" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="14750:14815" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="14852:14863" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="14888:14894" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="14949:14960" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="14993:14999" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="15036:15047" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="15072:15078" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="15133:15144" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="15177:15183" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="15234:15245" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="15284:15290" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="15373:15450" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="15505:15516" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="15546:15552" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="15630:15689" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="15735:15746" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="15780:15786" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="15860:15927" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="15965:15976" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16002:16008" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="16065:16076" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16111:16117" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="16159:16170" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16200:16206" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="16270:16281" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16324:16330" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="16376:16387" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16421:16427" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="16500:16567" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="16606:16617" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16644:16650" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="16709:16720" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16757:16763" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="16814:16825" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="16864:16870" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="16954:17031" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="17067:17078" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17102:17108" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="17160:17171" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17202:17208" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="17244:17255" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17279:17285" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="17337:17348" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17379:17385" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="17426:17437" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17466:17472" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="17534:17545" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17586:17592" ph=" }" />
+            <marker date="1539997872909" expanded="false" signature="17643:17654" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17693:17699" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="17783:17860" ph="{...}" />
+            <marker date="1539997872909" expanded="false" signature="17916:17927" ph=" { " />
+            <marker date="1539997872909" expanded="false" signature="17971:17977" ph=" }" />
+            <marker date="1539997872909" expanded="true" signature="18071:18158" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="18196:21573" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="21601:22976" ph="{...}" />
+            <marker date="1539997872909" expanded="true" signature="23007:26076" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application-8762.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.1.RELEASE/spring-cloud-netflix-eureka-server-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerMarkerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.0.1.RELEASE/spring-cloud-netflix-eureka-server-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/springcloudframe/eureka/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
